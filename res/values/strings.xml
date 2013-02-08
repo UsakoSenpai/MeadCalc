@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mead Calc</string>
+    <string name="main_activity_label">Enter two values, then click \'Calculate\' for third.</string>
+    <string name="honey_label">Honey (lbs):</string>
+    <string name="water_label">Water (gal):</string>
+    <string name="target_sg_label">Target SG:</string>
+    <string name="sg_honey_label">SG of Honey:</string>
+    <string name="sg_honey_dialog">Enter specific gravity of honey:</string>
+    <string name="calc_button_label">Calculate</string>
+    <string name="clear_button_label">Clear</string>
+    <string name="variable_entry_error">Please enter values for TWO measurements.</string>
+    <string name="sg_honey_btn">Change SG of Honey</string>
+
+</resources>
